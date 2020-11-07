@@ -1,0 +1,48 @@
+
+.card{
+    background-color:#F0F2F5 !important;
+}
+.alignpageleft{
+    margin-top: 200px;
+    margin-right: 0px;
+    margin-left: 200px;
+    
+}
+.alignpageright{
+    margin-top: 130px;
+   
+}
+.cardright{
+    border-style: solid !important;
+    background-color: white !important;
+}
+.cardwidth{
+    width: 400px !important;
+    height: 400px !important;
+    border-style: none !important;
+}
+.inputtext{
+    font-size: 12px;
+}
+.fontfamily{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.footeralign{
+    margin-top: 200px;
+    font-size: 12px;
+    margin-left: 50px !important;
+    margin-right: 100px !important;
+
+}
+.listsytle{
+    list-style: none;
+}
+.gradien{
+    background: linear-gradient(#F0F2F5,#F0F2F5);
+    height: 700px;
+}
+.gradien1{
+    background: linear-gradient(white,white);
+    
+}
